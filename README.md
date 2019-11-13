@@ -20,3 +20,52 @@ At the bottom of `blogger_cli.rb` is some commented out code.
 ```
 
 Make sure that each of the commented out lines does exactly what is described.
+
+## Bonus
+Try creating a Cli class which can take in user input in order for user's to input blog information and author information, and create unique Author's and Blogs from that information. An example:
+```
+Welcome to blogger!
+
+Main Menu
+Type '1' to list authors
+Type '2' to list blogs
+Type '3' to create a blog
+
+input: 3
+
+What is the author's name?
+
+input: Bob
+
+What is the title of the blog?
+
+input: Bob or not to Bob
+
+What is the content for the blog?
+
+input: Definitely to Bob!
+
+Blog created!
+
+Main Menu
+Type '1' to list authors
+Type '2' to list blogs
+Type '3' to create a blog
+
+input: 1
+
+Authors:
+Bob
+Bob's blogs:
+1. Bob or not to Bob
+
+Main Menu
+Type '1' to list authors
+Type '2' to list blogs
+Type '3' to create a blog
+
+input: 2
+
+All created blogs:
+1. Bob or not to Bob - Author: Bob
+```
