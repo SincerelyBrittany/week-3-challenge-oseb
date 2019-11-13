@@ -69,3 +69,7 @@ input: 2
 All created blogs:
 1. Bob or not to Bob - Author: Bob
 ```
+
+**Hint**
+
+You will need to make sure to store all of your Author's and Blogs. Also make sure every Author is unique (something like a find_or_create method).
