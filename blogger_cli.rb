@@ -44,7 +44,7 @@ author = Author.new("Shakespear")
 hamlet = Blog.new("Hamlet", "Hamlet Stuff", author)
 jomeo_and_rubylette = Blog.new("Jomeo And Rubylette", "Sad stuff", author)
 
-author.print_blogs # should print out all of the blogs of the author
+# author.print_blogs # should print out all of the blogs of the author
 # hamlet.print_author_blogs # should print out the blogs.author's blogs
 # hamlet.print_blog_info # should print the information about one blog
 # hamlet.print_author_info # should print out who the author is
