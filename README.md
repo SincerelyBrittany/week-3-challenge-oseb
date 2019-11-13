@@ -30,6 +30,7 @@ Main Menu
 Type '1' to list authors
 Type '2' to list blogs
 Type '3' to create a blog
+Type 'exit' to exit program
 
 input: 3
 
@@ -51,6 +52,7 @@ Main Menu
 Type '1' to list authors
 Type '2' to list blogs
 Type '3' to create a blog
+Type 'exit' to exit program
 
 input: 1
 
@@ -63,11 +65,22 @@ Main Menu
 Type '1' to list authors
 Type '2' to list blogs
 Type '3' to create a blog
+Type 'exit' to exit program
 
 input: 2
 
 All created blogs:
 1. Bob or not to Bob - Author: Bob
+
+Main Menu
+Type '1' to list authors
+Type '2' to list blogs
+Type '3' to create a blog
+Type 'exit' to exit program
+
+input: exit
+
+Goodbye!
 ```
 
 **Hint**
