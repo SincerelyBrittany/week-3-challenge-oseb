@@ -19,7 +19,7 @@ At the bottom of `blogger_cli.rb` is some commented out code.
 # hamlet.print_author_info # should print out who the author is
 ```
 
-Make sure that each of the commented out lines does exactly what is described.
+Make sure that each of the commented out lines do exactly what is described.
 
 ## Bonus
 Try creating a Cli class which can take in user input in order for user's to input blog information and author information, and create unique Author's and Blogs from that information. An example:
